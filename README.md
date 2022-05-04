@@ -16,11 +16,6 @@ The standard loupe functions have been gas-optimized in this implementation and 
 
 How a diamond is deployed is not part of the EIP-2535 Diamonds standard. This implementation shows a usable example. 
 
-## Run tests:
-```console
-npx hardhat test
-```
-
 ## Upgrade a diamond
 
 Check the `scripts/deploy.js` and or the `test/diamondTest.js` file for examples of upgrades.
